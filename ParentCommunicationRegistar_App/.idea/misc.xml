@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/drawable/ic_user.xml" value="0.1" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/activity_admin_activity.xml" value="0.23603603603603604" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/activity_faculty.xml" value="0.17297297297297298" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/activity_login_activity.xml" value="0.21" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/activity_main.xml" value="0.23603603603603604" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/activity_takeattendance.xml" value="0.17297297297297298" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/activity_viewattendance_activity.xml" value="0.17297297297297298" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/attendence_dialog.xml" value="0.17297297297297298" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/content_main.xml" value="0.23603603603603604" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/fragment_addfaculty.xml" value="0.25" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/fragment_addstudent.xml" value="0.21" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/fragment_faculty.xml" value="0.17297297297297298" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/fragment_home.xml" value="0.17297297297297298" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/fragment_student.xml" value="0.17297297297297298" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/fragment_viewattendance.xml" value="0.17297297297297298" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/nav_header_main.xml" value="0.23603603603603604" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/layout/student_card.xml" value="0.17297297297297298" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/menu/activity_main_drawer.xml" value="0.23603603603603604" />
+        <entry key="..\:/Project PCR Android/ParentCommunicationRegistar_App/app/src/main/res/menu/admin_activity.xml" value="0.23603603603603604" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
