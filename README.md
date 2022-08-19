@@ -1,8 +1,8 @@
-# ParentCommunicationRegistar
+# Parent Communication Register App
 
 ### Description:
 
-_ParentCommunicationRegistar is Android App based on Java/Sqlite.The Main aim of Parent Communication Register Android Application is to automate the
+_ParentCommunicationRegister is Android App based on Java/Sqlite.The Main aim of Parent Communication Register Android Application is to automate the
 attendance in the form of Android Mobile Application. It will help establish a good communication between Student Mentor and parent._
 
 ### App ScreenShots:
